@@ -1,0 +1,33 @@
+{
+	"compilerOptions": {
+		"target": "es2020",
+		"module": "commonjs",
+		"outDir": "dist",
+		"strict": false,
+		"strictNullChecks": true,
+		"skipLibCheck": true,
+		"noImplicitThis": true,
+		"noImplicitAny": false,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "types": [
+    	"@types/node"
+    ],
+    "typeRoots": [
+    	"./src/types"
+    ]
+	},
+	"include": [
+		"./src/**/*.ts",
+		"./src/types/**/*.d.ts"
+	],
+	"exclude": [
+		"./node_modules/**/*",
+		"./core-wapi/**/*",
+		"./corewapi-next/**/*"
+	]
+}

@@ -1,0 +1,89 @@
+@Kirasinigami_161102
+source /home/warceupr/nodevenv/api.warceuproject.dev/lintx/16/bin/activate && cd /home/warceupr/api.warceuproject.dev/lintx
+ssh warceupr@103.219.251.244
+
+Hai %user %greetings
+
+┌─● BOT ●─
+├─○ [ System bot information ]
+│➠ Name: LINTANX (LINTX) SYS
+│➠ Author: @lintx 
+│➠ Maintainers: TeamITX, SkymateX
+│➠ Version: Current
+│➠ API: Baileys
+│➠ Engine: NodeJS & V8
+│➠ Host: Arent
+│➠ Server: Warceup
+│➠ Time: %time
+│➠ Uptime: %process.uptime
+│➠ Database: ChatDB
+│➠ RPG: false
+├─● Lintx Quote ●─
+┃ Pada akhirnya kuharus undur diri
+┃ dan melangkah pamit pergi
+╰───────────◎
+
+┌─● USER ●─
+├─○ [ User information ]
+│➠ Name: %user | %tag
+│➠ Phone: %userphone
+│➠ Bio: %userbio
+│➠ WaMe: %userwame
+│➠ Country: %country
+│➠ Registered: %status
+└───────────●
+
+┌─● FEATURES ●─
+│ Simple utilities
+│ don't asking more
+└───────────●
+
+╭─● GC ●─
+┠─○ [ Group chat only ]
+┃◉ .cmd
+┃◉ .cmd2
+┃◉ .cmd3
+┃◉ .cmd4
+╰───────────●
+
+╭─● PC ●─
+┠─○ [ Private chat only ]
+┃◉ .cmd
+┃◉ .cmd2
+┃◉ .cmd3
+┃◉ .cmd4
+╰───────────●
+
+╭─● EXPERIMENTAL ●─
+┠─○ [ Experimental features ]
+┃◉ .cmd
+┃◉ .cmd2
+┃◉ .cmd3
+┃◉ .cmd4
+╰───────────●
+
+╭─● OWNER ●─
+┠─○ [ Owner only ]
+┃◉ .cmd
+┃◉ .cmd2
+┃◉ .cmd3
+┃◉ .cmd4
+╰───────────●
+
+╭─● All ●─
+┠─○ [ All features ]
+┃◉ .cmd
+┃◉ .cmd2
+┃◉ .cmd3
+┃◉ .cmd4
+╰───────────●
+
+╭─● -- ●─
+┠─○ [ No category ]
+┃◉ .cmd
+┃◉ .cmd2
+┃◉ .cmd3
+┃◉ .cmd4
+╰───────────●
+
+©copyright 2023 - ᴡɪᴛʜ ❤️ ᴘᴇɴɢᴏᴄᴏᴋ ʜᴀɴᴅᴀʟ
